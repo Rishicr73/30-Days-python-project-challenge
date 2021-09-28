@@ -1,0 +1,39 @@
+```
+enter starting roll number : 70357
+enter ending roll number   : 70388
+total students are 32
+enter total number of experiments : 8
+assigning experiments to each student...
+70357 8
+70358 4
+70359 6
+70360 8
+70361 2
+70362 7
+70363 1
+70364 4
+70365 5
+70366 5
+70367 6
+70368 4
+70369 8
+70370 6
+70371 8
+70372 6
+70373 5
+70374 7
+70375 2
+70376 4
+70377 2
+70378 5
+70379 3
+70380 2
+70381 3
+70382 1
+70383 3
+70384 1
+70385 3
+70386 7
+70387 1
+70388 7
+```
