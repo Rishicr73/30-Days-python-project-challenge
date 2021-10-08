@@ -45,7 +45,7 @@ while True:  # starting translation loop
     string = input(
         "\nWrite the text you want to translate: \nTo exit the program write 'close'\n")
 
-    if string == "close":  # exit program command
+    if string == "close":  c
         print(f"\nHave a nice Day!")
         break
 
