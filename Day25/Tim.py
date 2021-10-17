@@ -1,3 +1,5 @@
+#Basic beginner game in python
+
 print("Welcome to the Game!")
 name = input("What is your Name? ")
 age = int(input("what is your age? "))
